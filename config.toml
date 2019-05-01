@@ -1,0 +1,24 @@
+baseURL = "https://zacyoungdale.com"
+languageCode = "en-us"
+title = "Zac Youngdale Programmer"
+theme = "m10c"
+
+
+[params]
+  author = "Zac Youngdale"
+  description = "Seasoned developer with a passion for making."
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/zacyzacy"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/zac-youngdale"
+
+  [[params.pages]]
+    name = "Home"
+    url = "/"
+  
+  [[params.pages]]
+    name = "Projects"
+    url = "/projects"
