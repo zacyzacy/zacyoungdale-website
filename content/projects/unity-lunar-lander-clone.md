@@ -7,6 +7,7 @@ draft: false
 The main goal of this project was to learn about how to fine tune and polish game mechanics to meet precise requirements.
 
 GitHub Link:
+
 - [LunarLanderCloneUnity Github project](https://github.com/zacyzacy/LunarLanderCloneUnity)
 
 Screen Shots:

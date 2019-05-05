@@ -20,7 +20,7 @@ C#, Python, C++, PHP, Bash, PowerShell, Javascript, SQL
 
 #### Web Technology
 
-ASP.Net/.Net Core, Django, Flask, Laravel, Node.js
+ASP.Net/.Net Core, Django, Flask, Sympfony, Node.js
 
 #### Game Engines
 
@@ -110,7 +110,7 @@ ___2015 - 2018___
 
 __Attainable Entertainment__
 
-___2016 – 2017___
+___2016 - 2017___
 
 Worked on an unreleased UE4 game about solving crimes.
 
@@ -123,7 +123,7 @@ Worked on an unreleased UE4 game about solving crimes.
 
 __House Hippo Games__
 
-___2016 – 2016___
+___2016 - 2016___
 
 I was on the House Hippo Games team working on 'In The Grey' for the entire duration of the project.
 
