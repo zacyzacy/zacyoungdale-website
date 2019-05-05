@@ -20,7 +20,7 @@ C#, Python, C++, PHP, Bash, PowerShell, Javascript, SQL
 
 #### Web Technology
 
-ASP.Net/.Net Core, Django, Flask, Sympfony, Node.js
+ASP.Net/.Net Core, Django, Flask, Symfony, Node.js
 
 #### Game Engines
 
