@@ -28,7 +28,7 @@ Unity3D, Unreal Engine 4, Godot
 
 #### Other
 
-Unit Testing, Linux, Docker, AWS, Azure, Git, Perforce
+Software QA, Unit Testing, Linux, Docker, AWS, Azure, Git, Perforce
 
 ---
 
@@ -80,8 +80,9 @@ ___2016 - Present___
 
 - System Administrator
 - Automating tasks with Python, Node, Bash, PowerShell
-- Data Science/Analytics with Tableau
+- Data Science/Analytics with Tableau and Python
 - Developing Excel/Office extensions with C#
+- Web Software QA
 - Automating Windows desktop tasks with Auto Hot Key
 - Automating deployment/maintenance of enterprise applications
 - AWS system management
