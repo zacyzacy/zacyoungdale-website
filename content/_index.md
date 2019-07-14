@@ -16,11 +16,11 @@ ___zac.youngdale@gmail.com___
 
 #### Programming Languages
 
-C#, C++, Python, PHP, Bash, Javascript, SQL
+C#, C++, Python, PHP, Javascript, SQL
 
 #### Web Technology
 
-ASP.Net/.Net Core, Django, Scrapy, Symfony, Node.js
+ASP.Net/.Net Core, Django, Symfony, Node.js
 
 #### Game Engines
 
