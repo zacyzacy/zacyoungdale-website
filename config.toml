@@ -6,7 +6,7 @@ theme = "m10c"
 
 [params]
   author = "Zac Youngdale"
-  description = "Seasoned developer with a passion for making. I've been a programmer since 2012 and a games programmer since 2014."
+  description = "Seasoned developer with a passion for making. I've been programming since 2010 with the goal of making games for a living."
   [[params.social]]
     name = "github"
     url = "https://github.com/zacyzacy"
