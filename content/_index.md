@@ -34,8 +34,15 @@ Software QA, Unit Testing, Linux, Docker, AWS, Azure, Git, Perforce
 
 ### Projects
 
-#### Butterscotch Shenanijam
+#### In the Grey - House Hippo Games
 
+__Unity3D Vertical Slice__
+
+In The Grey is a game made by House Hippo Games and is a story driven puzzle game. This game was made for academic purposes. The goal of this project was to experience the entire process of building ...
+
+[Continue Reading](/projects/in-the-grey-unity-vertical-slice/)
+
+#### Butterscotch Shenanijam
 
 __Group Game Jam__
 
@@ -50,23 +57,6 @@ __Solo Game Jam__
 I participated in the Ludum Dare 41; The theme was "Combine 2 incompatible genres" I decided to take a shot at combining JRPG mechanics with slot machine mechanics. My mission was to do a deep dive into Godot ...
 
 [Continue Reading](/projects/ludum-dare-41-post-mortem/)
-
-#### In the Grey - House Hippo Games
-
-__Unity3D Vertical Slice__
-
-
-In The Grey is a game made by House Hippo Games and is a story driven puzzle game. This game was made for academic purposes. The goal of this project was to experience the entire process of building ...
-
-[Continue Reading](/projects/in-the-grey-unity-vertical-slice/)
-
-#### Dark Dungeon - Sheridan Game Labs
-
-__Unity2D Mobile Vertical Slice__
-
-Dark Dungeon is an online action platformer for IOS and Android where players invade other players and stop them from completing the dungeon or join them in their quest to slay ...
-
-[Continue Reading](/projects/dark-dungeon-unity-vertical-slice/)
 
 ---
 
