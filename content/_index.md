@@ -68,25 +68,20 @@ __Patient News__
 
 ___2016 - Present___
 
-- System Administrator
-- Automating tasks with Python, Node, Bash, PowerShell
+- Automating tasks with Python, Bash, and PowerShell
 - Data Science/Analytics with Tableau and Python
 - Developing Excel/Office extensions with C#
-- Web Software QA
-- Automating Windows desktop tasks with Auto Hot Key
+- Web Application QA
 - Automating deployment/maintenance of enterprise applications
 - AWS system management
 - Front end development with Javascript and CSS
 - Drupal/WordPress PHP development
 - Docker (Development and Production)
 - IT support desk
-- Database development/maintenance
 - Creating documentation
 - Monitoring and maintaining IT infrastructure
-- Working with/around internal legacy software
 - Training end users to use new technology
 - Data recovery
-- Gathering requirements for internal software
 
 #### Full Stack Developer
 
@@ -94,8 +89,9 @@ __Zac Youngdale IT__
 
 ___2015 - 2018___
 
-- PHP Developer
-- Wordpress Developer
+- PHP and Javascript development 
+- WordPress development 
+- Website design
 
 #### Unreal Engine 4 C++ Programmer
 
@@ -103,10 +99,9 @@ __Attainable Entertainment__
 
 ___2016 - 2017___
 
-Worked on an unreleased UE4 game about solving crimes.
+Worked part time on an unreleased UE4 game about solving crimes.
 
-- Unreal Engine 4 Programmer
-- Gameplay Programmer
+- Unreal Engine 4 Gameplay Programmer
 - UI Programmer
 - Blueprints Programmer
 
