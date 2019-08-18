@@ -6,7 +6,7 @@ theme = "m10c"
 
 [params]
   author = "Zac Youngdale"
-  description = "I've been programming since 2010 with the goal of writing code for a living."
+  description = "I've been programming since 2010 with the goal of working in the games industry."
   [[params.social]]
     name = "github"
     url = "https://github.com/zacyzacy"
