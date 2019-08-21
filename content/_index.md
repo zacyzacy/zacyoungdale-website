@@ -16,7 +16,7 @@ ___zac.youngdale@gmail.com___
 
 #### Programming Languages
 
-C++, Python, C#, PHP, SQL
+Python, C++, C#, PHP, SQL
 
 #### Web Technology
 
