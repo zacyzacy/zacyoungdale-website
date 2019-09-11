@@ -16,11 +16,11 @@ ___zac.youngdale@gmail.com___
 
 #### Programming Languages
 
-C#, C++, Pyhton, PHP, SQL
+Python, C++, C#, SQL
 
 #### Web Technology
 
-ASP.Net, Symfony, Django, Node.js
+Django, ASP, Node.js
 
 #### Game Engines
 
@@ -28,7 +28,7 @@ Unity3D, Unreal Engine 4, Godot
 
 #### Other
 
-Software QA, Unit Testing, Linux, Docker, AWS, Azure, Git, Perforce
+Bilingual English/French, Software QA, Linux, AWS, Git, Perforce
 
 ---
 
