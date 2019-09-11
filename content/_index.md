@@ -72,7 +72,6 @@ ___2016 - Present___
 - Data Science/Analytics with Tableau and Python
 - Developing Excel/Office extensions with C#
 - Web Application QA
-- Automating deployment/maintenance of enterprise applications
 - AWS system management
 - Front end development with Javascript and CSS
 - Drupal/WordPress PHP development
