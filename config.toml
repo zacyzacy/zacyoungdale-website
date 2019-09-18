@@ -1,12 +1,12 @@
 baseURL = "https://zacyoungdale.com"
 languageCode = "en-us"
-title = "Zac Youngdale Programmer"
+title = "Zac Youngdale"
 theme = "m10c"
 
 
 [params]
   author = "Zac Youngdale"
-  description = "I've been programming since 2010 with the goal of working in the games industry."
+  description = "zac.youngdale@gmail.com"
   [[params.social]]
     name = "github"
     url = "https://github.com/zacyzacy"
@@ -20,5 +20,5 @@ theme = "m10c"
     url = "/"
   
   [[params.pages]]
-    name = "Projects"
-    url = "/projects"
+    name = "Blog"
+    url = "/blog"
