@@ -19,7 +19,7 @@ __Patient News__
 
 ___2016 - Present___
 
-System Administrator and general IT Wizard at Patient News
+System Administrator and IT Support at Patient News
 
 - Python, Bash, and PowerShell automation
 - Data Science/Analytics with Tableau and Python
