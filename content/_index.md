@@ -34,9 +34,8 @@ ___2016 - 2017___
 
 Worked part time on an unreleased UE4 game about solving crimes.
 
-- Unreal Engine 4 Gameplay Programmer
-- UI Programmer
-- Blueprints Programmer
+- C++/Blueprints Programmer (Gameplay and UI)
+- Devops, setting up Perforce and later moving to Gitlab Server
 
 #### Unity C# Programmer
 
