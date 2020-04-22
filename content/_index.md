@@ -7,7 +7,7 @@ draft: false
 # ___Zac Youngdale___
 ---
 
-Experienced developer, trying to break into the games industry. Very passionate about video games and learning what makes them tick. Proud Canadian, fluent in both english and french. My specialties include gameplay and backend programming, QA testing and deploying software, making great coffee, and being a reliable team player.
+Experienced developer, trying to break into the games industry. Very passionate about video games and learning what makes them tick. Proud Canadian, fluent in both english and french. My specialties include gameplay and fullstack programming, QA testing, making great coffee, and being a reliable team player.
 
 ---
 
