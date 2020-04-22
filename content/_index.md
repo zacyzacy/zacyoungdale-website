@@ -7,7 +7,7 @@ draft: false
 # ___Zac Youngdale___
 ---
 
-Experienced system administrator and programmer, trying to break into the games industry. Very passionate about video games and learning what makes them tick. Proud Canadian, fluent in both English and French. My specialties include Programming, particularly Gameplay and Backend, testing and deploying software, making great coffee, and being a reliable team player.
+Experienced programmer, trying to break into the games industry. Very passionate about video games and learning what makes them tick. Proud Canadian, fluent in both english and french. My specialties include programming, particularly gameplay and backend, testing and deploying software, making great coffee, and being a reliable team player.
 
 ---
 

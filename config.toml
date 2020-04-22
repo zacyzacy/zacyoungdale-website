@@ -1,18 +1,16 @@
-baseURL = "https://zacyoungdale.com"
-languageCode = "en-us"
-title = "Zac Youngdale"
-theme = "m10c"
-
+theme = "zac"
 
 [params]
+  title = "Zac Youngdale"
   author = "Zac Youngdale"
-  description = "zac.youngdale@gmail.com"
+  description = "Zac's Website"
+  email = "zac.youngdale@gmail.com"
   [[params.social]]
-    name = "github"
+    name = "GitHub"
     url = "https://github.com/zacyzacy"
 
   [[params.social]]
-    name = "linkedin"
+    name = "Linkedin"
     url = "https://www.linkedin.com/in/zac-youngdale"
 
   [[params.pages]]
