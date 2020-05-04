@@ -43,7 +43,7 @@ __House Hippo Games__
 
 ___2016___
 
-I was on the House Hippo Games team working on 'In The Grey' for the entire duration of the project.
+Was on the House Hippo Games team working on 'In The Grey' for the entire duration of the project.
 
 - Game Tool Programming
 - Animation/Camera Programming
