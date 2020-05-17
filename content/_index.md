@@ -11,9 +11,9 @@ Experienced developer, trying to break into the games industry. Very passionate 
 
 ---
 
-### Experience
+## Experience
 
-#### System Administrator
+### System Administrator
 
 __Patient News__
 
@@ -26,7 +26,7 @@ System Administrator and IT Support at Patient News
 - Software QA
 - IT support desk
 
-#### Unreal Engine 4 C++ Programmer
+### Unreal Engine 4 C++ Programmer
 
 __Attainable Entertainment__
 
@@ -37,7 +37,7 @@ Worked part time on an unreleased UE4 game about solving crimes.
 - C++/Blueprints Programmer (Gameplay and UI)
 - Devops, setting up Perforce and later moving to Gitlab Server
 
-#### Unity C# Programmer
+### Unity C# Programmer
 
 __House Hippo Games__
 
@@ -51,7 +51,7 @@ Was on the House Hippo Games team working on 'In The Grey' for the entire durati
 - UI Programming
 
 
-#### Editor In Chief
+### Editor In Chief
 
 __Haliburton Highlands Secondary School__
 
@@ -65,7 +65,7 @@ Yearbook Editor for the Haliburton Highlands Secondary School year for 2 years.
 - Team management
 
 
-#### Graphic Designer
+### Graphic Designer
 
 ___Haliburton Echo___
 
@@ -75,7 +75,7 @@ Worked on various advertisements for clients of Haliburton Echo during a one sem
 
 - Layout and design of newspaper ads
 
-#### Graphic Designer
+### Graphic Designer
 
 ___Vista Signs___
 
@@ -89,9 +89,9 @@ Designing and installation of billboards and various physical advertisements, pa
 
 ---
 
-### Education
+## Education
 
-#### Game Development: Advanced Programming
+### Game Development: Advanced Programming
 
 __Sheridan College__
 
@@ -114,7 +114,7 @@ As well as a third semester, entirely dedicated to a final capstone project that
 [here](/blog/in-the-grey-unity-vertical-slice/).
 
 
-#### Computer Programming
+### Computer Programming
 
 __Sheridan College__
 
