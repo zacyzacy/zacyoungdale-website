@@ -13,7 +13,7 @@ Regular NPCs will wander around randomly.
 GitHub Links:
 
 - [Crowd Controller](https://gist.github.com/zacyzacy/ddd23dec10d9bbfa44ebbb25aa5b02e7)
-- [Finite State Machine for each NPC](https://gist.github.com/zacyzacy/6a10296c2c8c433b6f45f2f063da4564)
+- [NPC Finite State Machine](https://gist.github.com/zacyzacy/6a10296c2c8c433b6f45f2f063da4564)
 
 Screen Shots:
 
