@@ -101,7 +101,7 @@ Completed Courses:
 
 - Game Architecture (C++)
 - Game Engine Fundamentals (Unity C#)
-- Game Tools and Data Driven Design (C++ and Unity C#)
+- Game Tools and Data Driven Design (C++ and C#)
 - Computer Graphics (OpenGL and C++)
 - Gameplay Programming 1 (Unity C#)
 - Gameplay Programming 2 (Unity C#, C++)
