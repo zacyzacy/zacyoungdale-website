@@ -46,9 +46,12 @@ ___2016___
 
 Worked on 'In The Grey' for the entire duration of the project.
 
+- Gameplay Programmer
 - Tool Programmer
 - Animation Programmer
 - AI Designer
+- UI Designer/Programmer
+
 
 
 ### Editor In Chief
