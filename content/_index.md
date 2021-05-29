@@ -7,7 +7,7 @@ draft: false
 # ___Zac Youngdale___
 ---
 
-Experienced game developer. Very passionate about video games and learning what makes them tick. Proud Canadian, fluent in both english and french. Specialties include fullstack development, game development, QA testing, making great coffee, and being a reliable team player.
+I've been making games for nearly a decade, sometimes even professionally! Proud Canadian, fluent in English and French. Specialties include Unity, game design, game development, system administration, making great coffee, and being a reliable team player.
 
 ---
 
@@ -19,12 +19,12 @@ __Patient News__
 
 ___2016 - Present___
 
-System Administrator and IT Support at Patient News
+System Administrator at Patient News
 
-- Python, Bash, and PowerShell automation
-- Data Science/Analytics with Tableau and Python
-- Software QA
-- IT support desk
+- IT Support Desk
+- Windows and Linux System Administrator
+- Cloud System Administrator (Google Cloud, AWS, Engine Yard)
+- Tableau BI Expert
 
 ### Unreal Engine 4 C++ Programmer
 
@@ -32,10 +32,11 @@ __Attainable Entertainment__
 
 ___2016 - 2017___
 
-Worked part time on an unreleased UE4 game about solving crimes.
+Worked on "Detective, to the Office" until the studio closed in 2017.
 
-- C++/Blueprints Programmer (Gameplay and UI)
-- Devops, setting up Perforce and later moving to Gitlab Server
+- C++/Blueprints Programmer
+- Puzzle Designer
+- Perforce Devops Administrator
 
 ### Unity C# Programmer
 
@@ -43,12 +44,11 @@ __House Hippo Games__
 
 ___2016___
 
-Was on the House Hippo Games team working on 'In The Grey' for the entire duration of the project.
+Worked on 'In The Grey' for the entire duration of the project.
 
-- Game Tool Programming
-- Animation/Camera Programming
-- AI programming
-- UI Programming
+- Tool Programmer
+- Animation Programmer
+- AI Designer
 
 
 ### Editor In Chief
