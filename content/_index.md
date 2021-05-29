@@ -42,7 +42,7 @@ Worked on "Detective, to the Office" until the studio closed in 2017.
 
 __House Hippo Games__
 
-___2016___
+___2015 - 2016___
 
 Worked on 'In The Grey' for the entire duration of the project.
 
