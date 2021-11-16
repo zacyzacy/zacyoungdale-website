@@ -7,7 +7,7 @@ draft: false
 # ___Zac Youngdale___
 ---
 
-I've been making games for nearly a decade, sometimes even professionally! Proud Canadian, fluent in English and French. Specialties include Unity, game design, game development, system administration, making great coffee, and being a reliable team player.
+Life-long computer guy. Proud Canadian, fluent in English and French. Specialties include Unity, game design, game development, system administration, making great coffee, and being a reliable team player.
 
 ---
 
