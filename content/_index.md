@@ -117,7 +117,7 @@ As well as a third semester, entirely dedicated to a final capstone project that
 [here](/blog/in-the-grey-unity-vertical-slice/).
 
 
-### Computer Programming
+### Computer Programming and Administration
 
 __Sheridan College__
 
