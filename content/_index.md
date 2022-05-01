@@ -7,7 +7,7 @@ draft: false
 # ___Zac Youngdale___
 ---
 
-Life-long computer guy. Proud Canadian, fluent in English and French. Specialties include Unity, game design, game development, system administration, making great coffee, and being a reliable team player.
+Life-long computer guy. Proud Canadian, fluent in English and French. Specialties include IT support, system administration,Unity, game design, game development, making great coffee, and being a reliable team player.
 
 ---
 
