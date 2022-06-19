@@ -7,7 +7,7 @@ draft: false
 # ___Zac Youngdale___
 ---
 
-Life-long computer guy. Proud Canadian, fluent in English and French. Specialties include IT support, system administration,Unity, game design, game development, making great coffee, and being a reliable team player.
+Life-long computer guy. Proud Canadian, fluent in English and French. Specialties include programming particularly in Python, C#, and C++, Django, Unity, System Administration, making great coffee, and being a reliable team player. LGBTQ+ Ally.
 
 ---
 
@@ -22,9 +22,9 @@ ___2016 - Present___
 System Administrator at Patient News
 
 - IT Support Desk
-- Windows and Linux System Administrator
-- Cloud System Administrator (Google Cloud, AWS, Engine Yard)
-- Tableau BI Expert
+- Windows, Linux, and AWS System Administrator
+- BI Expert (Tableau & Python)
+- PHP Wordpress & Drupal Development
 
 ### Unreal Engine 4 C++ Programmer
 
@@ -35,8 +35,8 @@ ___2016 - 2017___
 Worked on "Detective, to the Office" until the studio closed in 2017.
 
 - C++/Blueprints Programmer
-- Puzzle Designer
-- Perforce Devops Administrator
+- Game/Puzzle Designer
+- Devops Administrator
 
 ### Unity C# Programmer
 
@@ -44,13 +44,13 @@ __House Hippo Games__
 
 ___2015 - 2016___
 
-Worked on 'In The Grey' for the entire duration of the project.
+Worked on "In The Grey" for the entire duration of the project.
 
-- Gameplay Programmer
-- Tool Programmer
-- Animation Programmer
+- C# Gameplay Programmer
+- C# Tools Programmer
+- C# Animation Programmer
 - AI Designer
-- UI Designer/Programmer
+- UI Designer
 
 
 
