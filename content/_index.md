@@ -7,7 +7,7 @@ draft: false
 # ___Zac Youngdale___
 ---
 
-Life-long computer guy. Proud Canadian, fluent in English and French. Specialties include programming particularly in Python, C#, and C++, Django, Unity, System Administration, making great coffee, and being a reliable team player. LGBTQ+ Ally.
+Life-long computer guy. Proud Canadian, fluent in English and French. Specialties include programming particularly in Python, C#, and C++, Docker, Django, Unity, System Administration, making great coffee, and being a reliable team player. LGBTQ+ Ally.
 
 ---
 
