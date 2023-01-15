@@ -7,7 +7,7 @@ draft: false
 # ___Zac Youngdale___
 ---
 
-Life-long computer guy. Proud Canadian, fluent in English and French. Specialties include programming particularly in Python, C#, and C++, Docker, Django, Unity, System Administration, making great coffee, and being a reliable team player. LGBTQ+ Ally.
+Life-long computer guy. Proud Canadian, fluent in English and French. Specialties include programming particularly in C#, and C++, and other technologies including Docker, Unity, and other game engines. Very experienced system administrator. Great at making coffee. LGBTQ+ Ally.
 
 ---
 
@@ -49,8 +49,7 @@ Worked on "In The Grey" for the entire duration of the project.
 - C# Gameplay Programmer
 - C# Tools Programmer
 - C# Animation Programmer
-- AI Designer
-- UI Designer
+- C# AI Programmer
 
 
 
