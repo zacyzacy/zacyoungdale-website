@@ -7,7 +7,7 @@ draft: false
 # ___Zac Youngdale___
 ---
 
-Life-long computer guy. Proud Canadian, fluent in English and French. Very experienced system administrator. Other specialties include programming particularly in C#, and C++, and other technologies including Docker, Unity, and other game engines. Great at making coffee. LGBTQ+ Ally.
+Life-long computer guy. Proud Canadian, fluent in English and French. Very experienced system administrator. Other specialties include programming particularly in C#, and C++, and other technologies including Docker, Unity, and other game engines. Great at making coffee.
 
 ---
 
@@ -55,7 +55,7 @@ Worked on "In The Grey" for the entire duration of the project.
 
 ### Editor In Chief
 
-__Haliburton Highlands Secondary School__
+__HHSS__
 
 ___2011 - 2013___
 
