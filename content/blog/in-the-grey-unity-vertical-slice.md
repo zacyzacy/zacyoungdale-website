@@ -16,6 +16,4 @@ Main NPC AI that guides the player through the game all while having his own age
 
 [Unity editor extension](https://gist.github.com/zacyzacy/aa9746cb7fe2a78935f7c9182dd37b8b) for creating the in game menu which is presented as a book. Features include automatically find the right sound and animations to play as well as managing the collectibles that are found throughout the game.
 
-Trailer:
 
-[![Trailer Thumbnail](https://img.youtube.com/vi/D482l4U_Y0Y/0.jpg)](https://www.youtube.com/watch?v=D482l4U_Y0Y)
