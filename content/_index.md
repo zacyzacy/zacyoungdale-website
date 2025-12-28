@@ -23,8 +23,13 @@ System Administrator at Patient News
 
 - IT Support Desk
 - Windows, Linux, and AWS System Administrator
-- BI Expert (Tableau & Python)
+- Administrator of Active Directory, VMWare, VOIP Systems, and many more
+- BI Report Expert (Tableau & Python)
 - PHP Wordpress & Drupal Development
+- Large Scale conversion from POTS to VOIP phone system
+- Converted Patient News from on prem storage to cloud based solutions to maximise hybrid work
+- Developed C# Excel tool that processes thousands of lists
+
 
 ### Unreal Engine 4 C++ Programmer
 
