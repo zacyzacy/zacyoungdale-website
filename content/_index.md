@@ -124,7 +124,7 @@ The program also covered project management methodology (PMP framework), systems
 
 | Category | Technologies |
 |---|---|
-| **Operating Systems** | Windows Server, Linux (Ubuntu, CentOS), macOS |
+| **Operating Systems** | Windows Server, Linux (Fedora, RHEL, Ubuntu), macOS |
 | **Cloud & Virtualization** | AWS, VMware, Docker |
 | **Identity & Directory** | Active Directory, Group Policy |
 | **Telephony** | VoIP Administration, POTS Migration, PBX Systems |
