@@ -130,7 +130,7 @@ The program also covered project management methodology (PMP framework), systems
 | **Telephony** | VoIP Administration, POTS Migration, PBX Systems |
 | **Languages** | C++, C#, PHP, Python, JavaScript, Java |
 | **Game Engines** | Unreal Engine 4, Unity |
-| **Web & CMS** | WordPress, Drupal, HTML/CSS |
+| **Web & CMS** | HuGo, WordPress, Drupal, HTML/CSS |
 | **BI & Reporting** | Tableau, Python (pandas), Excel Automation |
 | **Languages (Human)** | English (native), French (fluent) |
 
