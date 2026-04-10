@@ -77,7 +77,7 @@ The studio closed in 2017, but the experience gave me deep exposure to professio
 
 House Hippo Games was a small independent studio where I served as the primary C# programmer on *In The Grey*, a game I worked on from pre-production all the way through to completion. Being the sole programmer on a project like this is an immense responsibility, and an incredible learning experience.
 
-I was responsible for every line of gameplay code in the project. That meant implementing the core mechanics players interacted with, building the internal tools the rest of the team used to author content, writing the animation state machines and controller logic, and developing the AI systems that governed non-player character behaviour. It was a full-stack game development role in the truest sense of the phrase.
+I was responsible for implementing the core mechanics players interacted with, building the internal tools the rest of the team used to author content, writing the animation state machines and controller logic, and developing the AI systems that governed non-player character behaviour. It was a full-stack game development role in the truest sense of the phrase.
 
 **Responsibilities:**
 - Core gameplay systems programming in Unity C#
