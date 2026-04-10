@@ -98,7 +98,7 @@ It was my first real taste of leading a team toward a shared creative goal, and 
 
 ## Education
 
-### Graduate Certificate * Game Development: Advanced Programming
+### Graduate Certificate · Game Development: Advanced Programming
 **Sheridan College** · 2015 – 2016
 
 Sheridan's advanced game development program is one of the most rigorous in Canada, and it gave me a deep foundation in the systems-level thinking that underpins both game development and software engineering more broadly. The curriculum covered real-time graphics programming with OpenGL, AI algorithm design, multiplayer networking, and professional-grade engine architecture in both C++ and Unity C#.
@@ -109,7 +109,7 @@ The program culminated in a full semester dedicated entirely to a capstone proje
 
 ---
 
-### Diploma * Computer Programming & Administration
+### Diploma · Computer Programming & Administration
 **Sheridan College** · 2013 – 2015
 
 This two-year diploma program gave me a comprehensive foundation in both software development and IT administration, the combination that has defined my career ever since. I studied object-oriented programming in Java, Linux and Windows server administration, database design and implementation, networking fundamentals (routers and switches), and enterprise web development with .NET and C#.
